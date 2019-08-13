@@ -12,7 +12,7 @@ class App extends Component {
     return (
       <div  style={{"background-color":"#ffff", border:"30px"}}>
             <div style={{"background-color":"#993333", padding:"10px"}}>
-                <h1 style={{color:"#ffff", "text-align":"center"}}>Lista de Pessoas</h1>
+                <h1 style={{color:"#ffff", "text-align":"center"}}>PersonalNotes</h1>
             </div>
             <div style={{color:"993333","background-color":"#ffff", "text-align":"center", padding:"20px",margin:"25px", "padding-bottom":"365px"}}>
               <Routes />
