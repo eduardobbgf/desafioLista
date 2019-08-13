@@ -1,0 +1,36 @@
+
+.div1 {
+    display: inline-block; 
+    justify-content: center;
+    padding:"50px 50px";
+    background-color: whitesmoke;
+    margin:"15px 50px";
+}
+h3 {
+    display: inline-block;  
+    padding: 5px 30px;
+    margin: 0px 15px;
+    justify-content: center;
+}
+.div2 {
+    display: inline-flex;
+    justify-content: left;
+    
+}
+button, .inputBtn {
+    color:#ffff;
+    background-color:#993333; 
+    padding:5px;
+    margin:5px;
+    border: none;
+    text-align:center;
+    text-decoration: none;
+    font-size: 12pt;
+    font: Arial;
+    font-weight: 00;
+}
+.input {
+    padding: 10px 150px;
+    margin: 0px 600px
+}
+
